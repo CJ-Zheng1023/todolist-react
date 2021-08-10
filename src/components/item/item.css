@@ -1,0 +1,14 @@
+.todo {
+  border-bottom: 1px solid #777;
+  position: relative;
+  padding: 10px 40px 10px 10px;
+}
+.todo:last-child {
+  border-bottom: none;
+}
+.todo .action {
+  position: absolute;
+  right: 3px;
+  top: 50%;
+  transform: translateY(-50%);
+}

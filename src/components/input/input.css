@@ -1,0 +1,7 @@
+.input {
+  margin-bottom: 10px;
+}
+.input input {
+  box-sizing: border-box;
+  width: 100%;
+}
